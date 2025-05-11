@@ -1,7 +1,7 @@
-# 🚀 Atividades Variadas em C
+# Atividades Variadas em C
 
 Meu primeiro projeto em linguagem C, desenvolvido no **Code::Blocks**.  
-Objetivo: Aprender fundamentos da programação C através de exercícios práticos.
+Objetivo: Aprender fundamentos da programação C através de exercícios práticos, que sao dividios em 3 etapas: basico de entrada e saída, cálculos matemáticos e Lógica.
 
 ## Lista de Projetos
 
